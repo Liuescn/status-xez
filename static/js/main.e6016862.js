@@ -7185,7 +7185,7 @@ default = u
 				className: "container"
 			}, o.a.createElement("p", null, "© 2020 ", o.a.createElement(l, {
 				to: "https://status.xez.cc",
-				text: "XEZ网络监视平台"
+				text: "XEZ网站监视平台"
 			}), " By STATUS.ORG.CN")))
 		};
 
